@@ -1,2 +1,1 @@
 # diaz
-repositorio
